@@ -1,0 +1,18 @@
+SET UTF-8
+
+REP 1
+REP shon$ cion
+
+MAP 9
+MAP uüùú
+MAP iìí
+MAP eèé
+MAP aàá
+MAP oòó
+MAP nñ
+MAP bv
+MAP kc
+MAP ou
+
+SFX P Y 1
+SFX P   0     nan
